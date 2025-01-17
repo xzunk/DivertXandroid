@@ -7,10 +7,6 @@ DivertX is a powerful call management application that gives you complete contro
 ## Features
 
 - **Smart Call Diversion**: Automatically redirect calls based on custom rules and schedules
-- **Multiple Profiles**: Create and switch between different call management profiles for work, home, or vacation
-- **Blacklist & Whitelist**: Easily manage allowed and blocked numbers
-- **Call Logging**: Comprehensive history of diverted and managed calls
-- **Battery Efficient**: Optimized to minimize battery consumption while running in background
 - **Material Design**: Modern, intuitive interface following Android design guidelines
 
 
