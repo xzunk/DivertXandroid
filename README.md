@@ -2,7 +2,7 @@
 
 DivertX is a powerful call management application that gives you complete control over your incoming and outgoing calls. Whether you need to divert calls, set up custom rules, or manage multiple phone lines, DivertX makes it simple and intuitive.
 
-[![Download APK](https://img.shields.io/badge/Download-APK-green.svg)](https://github.com/yourusername/divertx/releases/latest/download/divertx.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-green.svg)](https://github.com/xzunk/DivertXandroid/releases/download/v1.0.0/divertx.apk)
 
 ## Features
 
@@ -13,13 +13,6 @@ DivertX is a powerful call management application that gives you complete contro
 - **Battery Efficient**: Optimized to minimize battery consumption while running in background
 - **Material Design**: Modern, intuitive interface following Android design guidelines
 
-## Screenshots
-
-<div align="center">
-<img src="/api/placeholder/200/400" alt="Main Screen" width="200"/>
-<img src="/api/placeholder/200/400" alt="Profile Settings" width="200"/>
-<img src="/api/placeholder/200/400" alt="Call Rules" width="200"/>
-</div>
 
 ## Requirements
 
@@ -72,12 +65,6 @@ We welcome contributions to DivertX! If you'd like to contribute:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Support
-
-Having issues? We're here to help:
-- Open an issue on GitHub
-- Email support: support@divertx.com
-- Visit our [Documentation](https://divertx.com/docs)
 
 ## License
 
